@@ -1,0 +1,119 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0% 10%;
+}
+
+.container{
+    border: 2px solid #2222a2;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.extras-container{
+    border: 2px solid #2222a2;
+    padding: 10px;
+    width: 30%;
+}
+
+.extras-container:hover{
+    transform: scale(1.1);
+    margin: auto 200px;
+    }
+
+
+.color-panel{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.one{
+    background-color: #eff3ff;
+    color: #08519c;
+}
+
+.two{
+    background-color: #bdd7e7;
+    color: #3182bd;
+}
+
+.three{
+    background-color: #6baed6;
+    color: #fff;
+}
+
+.four{
+    background-color: #3182bd;
+    color: #bdd7e7;
+}
+
+.five{
+    background-color: #08519c;
+    color: #eff3ff;
+}
+
+.font-panel{
+    width:30%; 
+    display: inline-block;
+}
+
+.font-label{
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.pm{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.lobster{
+    font-family:'Lobster Two', cursive;
+}
+
+.sm{
+    font-family: 'Space Mono', monospace;
+}
+
+.km{
+    font-family: 'Kiwi Maru', serif;
+}
+
+.spectral{
+    font-family: 'Spectral', serif;
+}
+
+.regular{
+    font-style: normal;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.style-panel h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 26;
+    font-weight: 700;
+}
+
+.style-panel h2{
+    font-family: 'Kiwi Maru';
+    font-size: 18;
+    font-weight: 500;
+}
+
+.style-panel p{
+    font-family: 'Spectral';
+    font-size: 14;
+    font-weight: 400;
+}
+
+.extra-one{
+    font-weight: bold;
+}
