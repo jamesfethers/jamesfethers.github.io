@@ -12,7 +12,7 @@ body{
 .extras-container{
     border: 2px solid #2222a2;
     padding: 10px;
-    width: 30%;
+    width: 20%;
 }
 
 .extras-container:hover{
@@ -20,6 +20,11 @@ body{
     margin: auto 200px;
     }
 
+.extras-container-two{
+    border: 2px solid #2222a2;
+    padding: 10px;
+    width: 30%;
+}
 
 .color-panel{
     display: inline-block;
@@ -117,3 +122,12 @@ body{
 .extra-one{
     font-weight: bold;
 }
+
+.extras-panel{
+    display: inline-block;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+    
